@@ -1,1 +1,3 @@
 Tento text jsme vložili v lokální větvi main.
+Soubor změněný na Github v main větvi.
+
