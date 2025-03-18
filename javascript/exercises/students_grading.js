@@ -11,3 +11,17 @@ if (actualPoints >= 75) {
     } bodů.`
   );
 }
+
+/*
+Git commit postup:
+git add . 
+git commit -m "zpráva"
+git pull
+git push
+*/
+
+// Příprava na hodinu (⌛3:00)
+// Přepněte se do main branch v Git
+// Pullněte
+// Vytvořte novou branch javascript_learning_2
+// Ve složce javascript_learning ve VS Code projektu vytvoř novou složku cycles
